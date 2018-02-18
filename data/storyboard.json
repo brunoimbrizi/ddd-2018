@@ -1,0 +1,55 @@
+{
+	"rr": [
+		"0 cut to 0",
+		
+		"520 cut to 0",
+		"530 ease to 1",
+		"690 cut to 1",
+		"700 ease to 0",
+
+		"810 cut to 0",
+		"820 ease to 1",
+		"850 cut to 1",
+		"860 ease to 0",
+
+		"1090 cut to 0",
+		"1100 ease to 1",
+		"1120 cut to 1",
+		"1130 ease to 0",
+
+		"1170 cut to 0",
+		"1180 ease to 1",
+		"1240 cut to 1",
+		"1250 ease to 0",
+
+		"1420 cut to 0",
+		"1430 ease to 1",
+		"1470 cut to 1",
+		"1480 ease to 0",
+
+		"1960 cut to 0",
+		"1970 ease to 1",
+		"2070 cut to 1",
+		"2080 ease to 0",
+
+		"2095 cut to 0",
+		"2100 ease to 1",
+		"2125 cut to 1",
+		"2130 ease to 0",
+
+		"2210 cut to 0",
+		"2220 ease to 1",
+		"2330 cut to 1",
+		"2340 ease to 0",
+
+		"3250 cut to 0",
+		"3260 ease to 1",
+		"3330 cut to 1",
+		"3340 ease to 0",
+
+		"4230 cut to 0",
+		"4240 ease to 1",
+		"4320 cut to 1",
+		"4330 ease to 0"
+	]
+}

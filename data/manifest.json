@@ -1,0 +1,9 @@
+{
+	"manifest": [
+		{ "id": "dancer", "src": "models/EX109-08.glb", "type": "binary" },
+		{ "id": "gravel-0", "src": "sounds/gravel-0.mp3" },
+		{ "id": "gravel-1", "src": "sounds/gravel-1.mp3" },
+		{ "id": "track", "src": "sounds/terre-basse.mp3" },
+		{ "id": "storyboard", "src": "data/storyboard.json" }
+	]
+}
