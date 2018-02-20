@@ -17,6 +17,14 @@ a:hover {
 	opacity: 1;
 }
 
+#ui.invert .info {
+	color: rgba(0, 0, 0, 0.8);
+}
+
+#ui.invert h3 {
+	color: #333;
+}
+
 .btn-info {
 	position: absolute;
 	top: 20px;
